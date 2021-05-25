@@ -1,0 +1,27 @@
+```
+         ▀██                           ▀██                           
+▄▄ ▄▄▄    ██ ▄▄    ▄▄▄▄   ▄▄ ▄▄▄     ▄▄ ██    ▄▄▄▄  ▄▄▄ ▄▄  ▄▄▄ ▄▄▄  
+ ██  ██   ██▀ ██  ▀▀ ▄██   ██  ██  ▄▀  ▀██  ▄█▄▄▄██  ██▀ ▀▀  ██  ██  
+ ██  ██   ██  ██  ▄█▀ ██   ██  ██  █▄   ██  ██       ██      ██  ██  
+▄██▄ ██▄ ▄██▄ ██▄ ▀█▄▄▀█▀ ▄██▄ ██▄ ▀█▄▄▀██▄  ▀█▄▄▄▀ ▄██▄     ▀█▄▄▀█▄ 
+                                                                     
+```
+
+# Rafael Escobar
+
+Hello, my name is Rafael, I'm 24 and I'm from São Paulo, Brazil. I'm a programmer, a libertarian
+and a lover of coffee, beer, philosophy, comp. sci. and linguistics.
+
+=> https://raw.githubusercontent.com/Nhanderu/resume/master/results/resume.pdf resume
+
+## Links
+
+=> mailto:rescobar@pm.me email
+=> https://github.com/Nhanderu github
+=> https://linkedin.com/in/Nhanderu linkedin
+
+## Wallets
+
+* Bitcoin: bc1qz9s87ddg00xy0z0z2pkwcjrhylmwzfs0z687fz
+* Litecoin: LS4VFwq131LSDcjJfHad7hSmUJmaE6ux6E
+* Ethereum: 0xf00F626d07BFa39d340944ec9f00133A71a40cf4

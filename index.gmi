@@ -22,6 +22,6 @@ and a lover of coffee, beer, philosophy, comp. sci. and linguistics.
 
 ## Wallets
 
-* Bitcoin: bc1qz9s87ddg00xy0z0z2pkwcjrhylmwzfs0z687fz
-* Litecoin: LS4VFwq131LSDcjJfHad7hSmUJmaE6ux6E
-* Ethereum: 0xf00F626d07BFa39d340944ec9f00133A71a40cf4
+* Bitcoin: bc1qv5qy2xmx50q730p2tzqakwwyqryl0mr27z506q
+* Litecoin: ltc1qw5pk72tkvdtfhvqfhwa6e3wgu58hs4vgl38eem
+* Ethereum: 0xB12C66bf723bA959Bb570802279d5Cc26474A6c1

@@ -1,0 +1,28 @@
+```
+                                                      ██  
+▄▄▄ ▄▄▄   ▄▄▄▄     ▄▄▄▄  ▄▄ ▄▄ ▄▄   ▄▄▄ ▄▄▄  ▄▄▄ ▄▄  ▄▄▄  
+ ██▀  ██ ▀▀ ▄██  ▄█▄▄▄██  ██ ██ ██   ██  ██   ██▀ ▀▀  ██  
+ ██    █ ▄█▀ ██  ██       ██ ██ ██   ██  ██   ██      ██  
+ ██▄▄▄▀  ▀█▄▄▀█▀  ▀█▄▄▄▀ ▄██ ██ ██▄  ▀█▄▄▀█▄ ▄██▄    ▄██▄ 
+ ██                                                       
+▀▀▀▀                                                      
+```
+
+# Rafael Escobar
+
+Hello, my name is Rafael, I'm a programmer from São Paulo, Brazil. I'm interested in many things,
+including computing science, linguistics, free software, individualism and philosophy.
+
+=> https://raw.githubusercontent.com/paemuri/resume/master/results/resume.pdf resume
+
+## Links
+
+=> mailto:rescobar@pm.me email
+=> https://github.com/paemuri github
+=> https://linkedin.com/in/Nhanderu linkedin
+
+## Wallets
+
+* Bitcoin: bc1qv5qy2xmx50q730p2tzqakwwyqryl0mr27z506q
+* Litecoin: ltc1qw5pk72tkvdtfhvqfhwa6e3wgu58hs4vgl38eem
+* Ethereum: 0xB12C66bf723bA959Bb570802279d5Cc26474A6c1

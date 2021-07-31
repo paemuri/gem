@@ -2,7 +2,7 @@
 
 [![License][badge-1-img]][badge-1-link]
 
-My personal capsule, running @ [gem.nhanderu.com][1]!
+My personal capsule, running @ [paemuri.com][1]!
 
 ## License
 
@@ -14,8 +14,8 @@ Unless you explicitly state otherwise, any contribution intentionally
 submitted for inclusion in the work by you shall be in the public
 domain, without any additional terms or conditions.
 
-[1]: //gem.nhanderu.com
+[1]: //paemuri.com
 [2]: ./LICENSE
 
-[badge-1-img]: https://img.shields.io/github/license/Nhanderu/gem?style=flat-square
-[badge-1-link]: https://github.com/Nhanderu/gem/blob/master/LICENSE
+[badge-1-img]: https://img.shields.io/github/license/paemuri/gem?style=flat-square
+[badge-1-link]: https://github.com/paemuri/gem/blob/master/LICENSE

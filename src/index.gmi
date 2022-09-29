@@ -1,22 +1,25 @@
 ```
-                                                      ██  
-▄▄▄ ▄▄▄   ▄▄▄▄     ▄▄▄▄  ▄▄ ▄▄ ▄▄   ▄▄▄ ▄▄▄  ▄▄▄ ▄▄  ▄▄▄  
- ██▀  ██ ▀▀ ▄██  ▄█▄▄▄██  ██ ██ ██   ██  ██   ██▀ ▀▀  ██  
- ██    █ ▄█▀ ██  ██       ██ ██ ██   ██  ██   ██      ██  
- ██▄▄▄▀  ▀█▄▄▀█▀  ▀█▄▄▄▀ ▄██ ██ ██▄  ▀█▄▄▀█▄ ▄██▄    ▄██▄ 
- ██                                                       
-▀▀▀▀                                                      
+                                                      ██
+▄▄▄ ▄▄▄   ▄▄▄▄     ▄▄▄▄  ▄▄ ▄▄ ▄▄   ▄▄▄ ▄▄▄  ▄▄▄ ▄▄  ▄▄▄
+ ██▀  ██ ▀▀ ▄██  ▄█▄▄▄██  ██ ██ ██   ██  ██   ██▀ ▀▀  ██
+ ██    █ ▄█▀ ██  ██       ██ ██ ██   ██  ██   ██      ██
+ ██▄▄▄▀  ▀█▄▄▀█▀  ▀█▄▄▄▀ ▄██ ██ ██▄  ▀█▄▄▀█▄ ▄██▄    ▄██▄
+ ██
+▀▀▀▀
 ```
 
 # Rafael Escobar
 
 Hello, my name is Rafael, I'm a programmer from São Paulo, Brazil. I'm interested in many things,
-including computing science, linguistics, free software, individualism and philosophy.
+including computing science, linguistics, free software, individualism and libertarianism.
+
+Contact me at rescobar (at) pm (dot) pm.
+
+Check out the web version of this page at paemuri (dot) com.
 
 ## Links
 
-=> mailto:rescobar@pm.me email
-=> https://sr.ht/~paemuri git
+=> https://sr.ht/~paemuri projects
 => https://linkedin.com/in/paemuri linkedin
 
 ## Wallets

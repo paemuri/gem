@@ -1,1 +1,4 @@
+/.gitsecret/keys/random_seed
+/.gitsecret/keys/pubring.kbx~
 /deploy
+!*.secret
